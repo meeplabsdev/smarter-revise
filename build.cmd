@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "favicon.ico" --clean --debug "noarchive"  "main.py"
